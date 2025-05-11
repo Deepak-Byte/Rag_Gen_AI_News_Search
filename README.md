@@ -22,8 +22,6 @@ SmartRAG is a Retrieval-Augmented Generation (RAG) app that lets you ask natural
 - Python · LangChain · FAISS · SentenceTransformers  
 - Ollama (LLMs) · Streamlit · HuggingFace · PyMuPDF
 
----
 
-## 📂 Directory Structure
 
 
